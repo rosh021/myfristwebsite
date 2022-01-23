@@ -271,6 +271,12 @@ date {
     display: flex;
     flex-direction: column;
   }
+
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
 }
 
 @media (max-width: 480px) {
